@@ -10,6 +10,7 @@ This project analyzes used car market data to explore pricing patterns and under
 - NumPy
 - Matplotlib
 - Seaborn
+- Sklearn
 
 ## Project File
 - `Ebrahim_Hosseini_Car_Data.ipynb`: Contains the data analysis and visualization workflow.
